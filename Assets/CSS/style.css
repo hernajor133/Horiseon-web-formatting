@@ -7,7 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* typography */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -16,7 +18,9 @@ a {
 p {
     font-size: 16px;
 }
+
 /* layout */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -26,7 +30,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+
 /* header */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -85,12 +91,14 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-
+/* main content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* benefits */
 
 .benefits {
     margin-right: 20px;
@@ -119,6 +127,8 @@ header nav ul li {
     max-width: 150px;
 }
 
+/* service */
+
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -137,7 +147,9 @@ header nav ul li {
     font-size: 36px;
 }
 
-.footer {
+/* footer */
+
+.footer
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

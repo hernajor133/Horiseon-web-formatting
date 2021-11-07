@@ -1,2 +1,25 @@
-# code-refactoring
-modifying code without changing what it does
+# Code Refactoring
+
+## outline
+
+Horisean a social media marketing organization has requested that their existing code be modified to meet special needs standards.
+
+## Objectives
+
+The objective for this assignment is to clean up the html and css of any unnecessary code, and make it easy and straight forward
+to read. These changes need to be made without changing the website funtions.
+
+## Solution
+
+To solve the problems problems entailed. I have cleaned up the html code, and reeplaced most <div> commands with more accurate
+and accurate commands. For the css style i have merged commands that are similar and make sense to merge without changing the website.
+
+## preview
+
+links
+
+GitHub pages: 
+
+
+
+![Horiseon](assets/images/screenshot.jpg.png)
