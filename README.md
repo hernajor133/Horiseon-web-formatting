@@ -23,8 +23,9 @@ and accurate commands. For the css style i have merged commands that are similar
 
 
 links:
+https://hernajor133.github.io/Horiseon-web-formatting/
 
 GitHub pages: 
-
+https://github.com/hernajor133/Horiseon-web-formatting.git
 
 
