@@ -15,11 +15,14 @@ To solve the problems problems entailed. I have cleaned up the html code, and re
 and accurate commands. For the css style i have merged commands that are similar and make sense to merge without changing the website.
 
 ## preview
+[Screenshot of the application]
+()
 
-links
+
+
+links:
 
 GitHub pages: 
 
 
 
-![Horiseon](assets/images/screenshot.jpg.png)

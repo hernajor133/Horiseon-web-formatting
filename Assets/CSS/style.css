@@ -32,13 +32,16 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+ul {
     list-style-type: none;
+    float: right;
+    margin-right: 130px;
+    
 }
 
-.header div ul li {
+ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 70px;
 }
 
 a {
