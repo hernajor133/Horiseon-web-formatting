@@ -27,6 +27,3 @@ https://hernajor133.github.io/Horiseon-web-formatting/
 
 GitHub pages: 
 https://github.com/hernajor133/Horiseon-web-formatting.git
-
-
-https://github.com/hernajor133/Horiseon-web-formatting.git
