@@ -15,7 +15,7 @@ To solve the problems problems entailed. I have cleaned up the html code, and re
 and accurate commands. For the css style i have merged commands that are similar and make sense to merge without changing the website.
 
 ## preview
-[screenshot](./Assets/images/Horiseon(1).png)
+[./Assets/images/Horiseon-(4).png](./Assets/images/Horiseon-(4).png)
 
 
 
@@ -29,3 +29,4 @@ GitHub pages:
 https://github.com/hernajor133/Horiseon-web-formatting.git
 
 
+https://github.com/hernajor133/Horiseon-web-formatting.git
